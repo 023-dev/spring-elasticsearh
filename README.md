@@ -1,4 +1,4 @@
-# Elasticsearch 학습 가이드
+# Elasticsearch
 
 ## 개요
 
